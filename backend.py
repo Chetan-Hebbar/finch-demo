@@ -6,8 +6,8 @@ import time
 
 app = Flask(__name__, static_folder=".")
 
-FINCH_CLIENT_ID = "<insert your id here>"
-FINCH_CLIENT_SECRET = "<insert your secret here>"
+FINCH_CLIENT_ID = "6f7b7625-712a-4963-b2e2-9c7039980a99"
+FINCH_CLIENT_SECRET = "finch-secret-sandbox-ZpO9mEz-IODAuhuDBhs5fOnRyiPS6EzQae7NNtAB"
 BASE_URL = "https://api.tryfinch.com"
 
 # Store tokens per provider
